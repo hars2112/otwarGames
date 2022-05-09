@@ -17,6 +17,7 @@ cat $(file . -name -file07)
 
 and the password is: 
 
- # koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+# koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+ 
 
 
