@@ -15,3 +15,7 @@ I did it using base64 encoder
 and with this i get the password
 
 # IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+we also use tr and sed commmand for sustitution of characters 
+
+tr ' ' '\n' for a new line  

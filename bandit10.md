@@ -21,7 +21,7 @@ and this is going to be the easy way:
 
 and with this you get the password 
 
-#truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+#  truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 =======
 The password for the next level is stored in the file
  data.txt in one of the few human-readable strings,
